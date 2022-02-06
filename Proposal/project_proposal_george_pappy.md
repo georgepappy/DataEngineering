@@ -6,7 +6,7 @@ Since the early days of the COVID-19 pandemic, Johns Hopkins Center for Systems 
 
 The intent of this project is to provide an alternative web-based dashboard where a user can get just the most basic, useful information for a given US-based state and major county without being flooded with excessive data and visualizations. A notional idea of the proposed user interface for this system appears below:
 
-![Notional_Dashboard](../Data_Engineering_Project_Official/project_proposal_george_pappy/Notional_Dashboard.png)
+![Notional_Dashboard](../Proposal/project_proposal_george_pappy/Notional_Dashboard.png)
 
 
 
@@ -16,7 +16,7 @@ Supplemental data (via one-time download from https://worldpopulationreview.com/
 
 The proposed data pipeline for this project is shown in the following diagram:
 
-![Proposed_Pipeline](../Data_Engineering_Project_Official/project_proposal_george_pappy/Proposed_Pipeline.png)
+![Proposed_Pipeline](../Proposal/project_proposal_george_pappy/Proposed_Pipeline.png)
 
 As stored in the SQLite database for use in the web application, an individual unit of state-level data has the following characteristics:
 
