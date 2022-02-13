@@ -12,7 +12,7 @@ The data pipeline for the project has been updated slightly since the proposal p
 
 A working version of the original proposed dashboard (without any visualizations) was successfully deployed and has been continuously operational on Heroku for several days already (with daily database updates pushed to GitHub), as indicated by the following screenshot:
 
-![Screen Shot 2022-02-10 at 4.00.54 PM](../MVP/mvp_george_pappy/Screen Shot 2022-02-10 at 4.00.54 PM.png)
+![Screen Shot 2022-02-10 at 4.00.54 PM](../MVP/mvp_george_pappy/Heroku_deployment.png)
 
 
 
