@@ -1,0 +1,108 @@
+html * {
+    font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+} 
+
+#main-container {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+}
+
+#header-table {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom:  0px;
+}
+
+#input-table {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom:  0px;
+}
+
+.button1 {
+  background-color: mediumslateblue;
+  width: 125px;
+  font-size: 16px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 4px;
+  margin-left:  20px;
+}
+
+.button2 {
+  background-color: seagreen;
+  width: 125px;
+  font-size: 16px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left:  20px;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 0.86em;
+    font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+    min-width: 200px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.styled-table thead tr {
+    background-color: #244CA3;
+    color: #ffffff;
+    text-align: center;
+}
+
+.styled-table th,
+.styled-table td {
+    font-weight: bold;
+    padding: 12px;
+    text-align: center;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    background-color: #FFFFE0;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+#footnote-table {
+    margin: 10px;
+    border-collapse: collapse;
+    border: 2px solid;
+    text-align:  center;
+
+}
+
+#footnote-table th, 
+#footnote-table td {
+    padding: 3px;
+    border-collapse: collapse;
+    border: 2px solid;
+    text-align:  center;
+    min-width: 100px;
+}
+
+ul {
+  list-style: none;
+}

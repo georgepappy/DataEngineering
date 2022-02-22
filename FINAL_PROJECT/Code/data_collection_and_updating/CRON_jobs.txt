@@ -1,0 +1,5 @@
+01 0-23/1 * * * /Users/georgepappy/opt/anaconda3/bin/python3 /Users/georgepappy/Documents/Metis/online_flex/Module7_DataEngineering/project_sandbox/tracker_1/get_covid_data.py
+
+57 0-23/1 * * * /Users/georgepappy/Documents/Metis/online_flex/Module7_DataEngineering/project_sandbox/tracker_1/update_git.sh
+
+00 0 */3 * * /Users/georgepappy/Documents/Metis/online_flex/Module7_DataEngineering/project_sandbox/tracker_1/delete_db.sh
