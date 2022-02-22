@@ -62,5 +62,5 @@ The following tools were used in this project:
 
 ## Communication
 
-In addtition to presenting final Project Slides to the stakeholders, all work (including the slides) can be found on GitHub: https://github.com/georgepappy/DataEngineering/FINAL_PROJECT
+In addtition to presenting final Project Slides to the stakeholders, all work (including the slides) can be found on GitHub: https://github.com/georgepappy/DataEngineering/tree/main/FINAL_PROJECT
 
